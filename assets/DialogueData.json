@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Begin",
+		"tags": "",
+		"body": "<<Eca>>\nHai, aku Eca, anak dari Bu Dewi, pemilik kedai kue paling kece di Kampung Kue!\nBetapa asyiknya jadi bagian dari dunia ini. Kue tradisional yang bikin lidah bergoyang, aroma dapur yang selalu menggoda, dan senyum-senyum pelanggan yang puas!\nSebenarnya, aku punya mimpi. Aku mau melanjutkan jejak ibuku, yaitu bikin bisnis kue ini makin maknyus!\n<<Narasi>>\n[i](Duduk di meja di depan kedai, sambil lihat orang-orang menikmati kue)[/i]\n<< Eca>>\n[i](sambil ngemil)[/i] Hmmmmm! Kue ibu ini emang paling enak!\nHmmm... Aku bisa ikutan bikin ngga ya?\n<<Narasi>><<FadeIn>> \n[i](Bu Dewi datang sambil bawa kue.)[/i]\n<<BuDewi>>\n[i](sambil tersenyum)[/i] Wah, anak ibu nih yang suka tantangan. Gimana, mau ikutan bikin kue?\n<<Eca>> <<EcaSemangat>><<ShakeOn>> \n[i](mengangguk mantap)[/i] Pasti, Bu! Aku juga mau ikutan jual kue yang aku buat sendiri nanti!\n<<off>><<minggir>> \nIntinya sih, aku penasaran banget.\nPingin tau rahasia di balik tiap kue yang bikin orang-orang senang.\nDapur ibu jadi tempat seru untukku eksplorasi. Dari panci besar sampe loyang kecil, semuanya punya peran masing-masing.\nTapi ada rahasia lebih banyak lagi, dan aku pingin bongkar satu per satu.\n<<end>>\n..",
+		"position": {
+			"x": 436,
+			"y": 251
+		},
+		"colorID": 0
+	}
+]
